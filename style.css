@@ -1,0 +1,32 @@
+body {
+	/*margin: 0;
+	padding: 0em;*/
+	padding-top: 1em;
+	padding-left: 28em;
+	background: yellow;
+	color: black;
+	font-family: serif;
+}
+main {
+	padding-top: 1em;
+	padding-left: 28em;
+	
+} 
+img {
+	max-height: 50%;
+  	max-width: 50%;
+ 	
+}
+
+p {
+	align-content: right;
+	font-family: serif;
+	font-size: 36pt;
+}
+
+header {
+	padding-bottom: -5em;
+	font-family: sans-serif;
+	font-size: 72pt;
+
+}
